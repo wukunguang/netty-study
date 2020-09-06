@@ -22,6 +22,7 @@
     </build>
     <modules>
         <module>netty-helloworld</module>
+        <module>netty-httpserver</module>
     </modules>
 
 </project>
